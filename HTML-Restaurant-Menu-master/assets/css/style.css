@@ -53,14 +53,14 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
+    width: 60%;
     height: auto;
     background-color: white;
 }
 
 #banner img {
-    width: 30%;
-    height: auto;
+    width:100%;
+    height: 30%;
 }
 
 .service {
